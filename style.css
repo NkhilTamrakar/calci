@@ -1,0 +1,36 @@
+body 
+{
+    background-image: url(../vftvk-Simple-Interest-Calculator-master/illust.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size:larger;
+    padding-left: 9rem;
+    padding-right: 4rem;
+
+}
+.new
+{
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    font-style: italic;
+    font-size: xx-large;
+    background-color: black;
+    margin: 12% 4%;
+    padding: 3% 4%;
+   transition-duration: 1s;
+    
+    
+}
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: brown;
+    border-radius: 2%;
+    padding: 2px 4px;
+
+}
+.new:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(112, 92, 92);
+
+}
+input[text]
